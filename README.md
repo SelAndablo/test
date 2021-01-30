@@ -1,2 +1,2 @@
 #Mi repositorio de prueba
-Esta es una prueba# first-commit
+Esta es una prueba
